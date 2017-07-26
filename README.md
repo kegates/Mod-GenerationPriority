@@ -24,6 +24,7 @@ DESCRIPTION: This addin contains a Macro intended to be used in modifying the Ge
 ---------------------------------------------------------------------------------------------
 
 INSTRUCTIONS: 
+		
 		1. If you wish to import CROW outages, open CROW and go to Generator Outages.
 		   Make sure your Definition is on '<default>' (Can view by clicking 'View Definition')
 
@@ -54,6 +55,7 @@ INSTRUCTIONS:
 ---------------------------------------------------------------------------------------------
 
 INSTILLATION:
+		
 		1. Open the zipped folder and move the folder inside your Microsoft AddIns
 		   folder
 
