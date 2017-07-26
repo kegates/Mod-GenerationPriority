@@ -57,7 +57,7 @@ INSTRUCTIONS:
 INSTILLATION:
 		
 		1. Open the zipped folder and move the folder inside your Microsoft AddIns
-		   folder
+		   folder.  The Add-In will not work if you do not do this!
 
 			Example: C:\Users\<username>\AppData\Roaming\Microsoft\AddIns
 
