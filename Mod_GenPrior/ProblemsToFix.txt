@@ -1,0 +1,33 @@
+=============================================================================
+@file: ProblemsToFix.txt
+@author: Kevin Gates
+
+@date: 07/17/2017 15:31:00
+
+@description: Documents problems with the current version of CROW compare
+	      to be fixed in future versions of the code.  This file will
+	      also document when problems have been fixed. All
+	      documentation will exist in logs where each log follows the
+	      format bellow.  Add new logs above old ones.
+
+@format: -----------------------------------------------------
+	 log <date/time> , ver<version #>
+	 	description: <general description>
+		Problems: <problems/errors>
+		Fixes: <fixed problems>
+	 -----------------------------------------------------
+=============================================================================
+-----------------------------------------------------------------------------
+log 07/17/2017 15:32:00 , ver1.0
+	description: Initial log containing main problem w/ver1.0
+	Problems: -There are units from the Priority list with no equivalent
+		   on the translation table, these units should be found.
+		   Use info in Moving Tables.xlsm to figure stuff out.
+		   (the 'Priority List Names with No Market List Match'
+		    shows all the units that MUST be accounted for in the future)
+
+		  -It would be nice if users had a button to see TTCs and Date/Time
+
+	Fixes: NA (First log of first version)
+
+-----------------------------------------------------------------------------
