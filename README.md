@@ -58,6 +58,8 @@ INSTILLATION:
 		
 		1. Open the zipped folder and move the folder inside your Microsoft AddIns
 		   folder.  The Add-In will not work if you do not do this!
+		   (for GitHub users, you should be moving the 'Mod_GenPrior' folder
+		   to this location)
 
 			Example: C:\Users\<username>\AppData\Roaming\Microsoft\AddIns
 
